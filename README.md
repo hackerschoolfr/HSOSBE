@@ -1,0 +1,2 @@
+# HSOSBE
+Hackerschool Blackhat Edition
